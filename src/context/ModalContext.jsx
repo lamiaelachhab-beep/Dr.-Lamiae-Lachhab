@@ -3,6 +3,8 @@ import { useTranslation } from 'react-i18next'
 
 const ModalContext = createContext()
 
+
+
 export const ModalProvider = ({ children }) => {
     const { t } = useTranslation()
     const [isAppointmentModalOpen, setIsAppointmentModalOpen] = useState(false)
@@ -20,4 +22,5 @@ export const ModalProvider = ({ children }) => {
     )
 }
 
-export const useModal = () => useContext(ModalContext)
+        export const useModal = () => useContext(ModalContext)
+
