@@ -25,6 +25,7 @@ const ScrollToTop = () => {
 }
 
 
+
 const PageLoader = () => (
     <div className="flex flex-col h-screen items-center justify-center bg-primary/5">
         <div className="relative">
