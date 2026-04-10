@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Page d'accueil -->
+    <url>
+        <loc>https://www.drlachhablamiae.com/</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- À propos -->
+    <url>
+        <loc>https://www.drlachhablamiae.com/a-propos</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Spécialités — page principale -->
+    <url>
+        <loc>https://www.drlachhablamiae.com/specialites</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Spécialités — sous-pages (mots-clés ciblés Agadir / Inezgane) -->
+    <url>
+        <loc>https://www.drlachhablamiae.com/specialites/eeg</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://www.drlachhablamiae.com/specialites/enmg</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://www.drlachhablamiae.com/specialites/epilepsie</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.drlachhablamiae.com/specialites/maux-de-tete-migraines</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.drlachhablamiae.com/specialites/troubles-du-sommeil</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://www.drlachhablamiae.com/specialites/parkinson</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://www.drlachhablamiae.com/specialites/alzheimer-memoire</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <!-- Rendez-vous — haute priorité (page de conversion) -->
+    <url>
+        <loc>https://www.drlachhablamiae.com/rdv</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.95</priority>
+    </url>
+
+    <!-- Contact -->
+    <url>
+        <loc>https://www.drlachhablamiae.com/contact</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Blog — page liste -->
+    <url>
+        <loc>https://www.drlachhablamiae.com/blog</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Articles de blog — décommenter et dupliquer pour chaque article publié
+    <url>
+        <loc>https://www.drlachhablamiae.com/blog/qu-est-ce-que-l-eeg</loc>
+        <lastmod>2026-04-10</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    -->
+
+</urlset>
