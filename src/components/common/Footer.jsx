@@ -8,18 +8,15 @@ const Footer = () => {
     const { t, i18n } = useTranslation()
     const year = new Date().getFullYear()
     const isArabic = i18n.language === 'ar'
-
     const mainLinks = [
         { name: t('nav.home'), path: '/' },
         { name: t('nav.about'), path: '/a-propos' },
         { name: t('nav.specialties'), path: '/specialites' },
     ]
-
     const secondaryLinks = [
         { name: t('nav.blog'), path: '/blog' },
         { name: t('nav.appointment'), path: '/rdv' },
     ]
-
     return (
         <footer className={`relative bg-[#0f172a] text-white pt-10 pb-8 overflow-hidden border-t border-white/5 font-sans ${isArabic ? 'text-right' : 'text-left'}`}>
             <NeuralNetwork color="#83cfd2" className="opacity-[0.03] scale-125 rotate-[-5deg]" />
