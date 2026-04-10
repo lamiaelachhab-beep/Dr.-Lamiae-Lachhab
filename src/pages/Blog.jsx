@@ -4,7 +4,8 @@ import { Helmet } from 'react-helmet-async'
 import { Calendar, ArrowRight, Brain, Activity,  X,  User, Tag } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { NeuralNetwork, EEGWave } from '../components/common/EEGBackground'
-   
+
+
 const Blog = () => {
     const { t, i18n } = useTranslation()
     const isArabic = i18n.language === 'ar'
