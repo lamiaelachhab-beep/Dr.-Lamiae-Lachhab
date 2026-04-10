@@ -1,0 +1,455 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "specialties": "Specialties",
+        "appointment": "Book Appointment",
+        "contact": "Contact",
+        "blog": "Blog"
+    },
+    "hero": {
+        "title": "Dr. Lamiae Lachhab",
+        "subtitle": "Neurologist",
+        "badge": "Expertise in Neurology \u2013 Agadir / Inezgane",
+        "description": "Medical practice specializing in neurology and neurophysiological explorations EEG EMG in Inezgane.",
+        "highlight": "Specialized management of epilepsy, migraines and sleep disorders.",
+        "cta_appointment": "Book Appointment",
+        "cta_whatsapp": "WhatsApp"
+    },
+    "footer": {
+        "description": "Neurology Clinic & Functional Explorations (EEG & ENMG).",
+        "copyright": "Neurological Excellence."
+    },
+    "services": {
+        "title": "Our Services",
+        "eeg": {
+            "name": "EEG (Electroencephalography)",
+            "desc": "Analysis of the brain's electrical activity to diagnose epilepsy and other disorders."
+        },
+        "enmg": {
+            "name": "ENMG (Electroneuromyography)",
+            "desc": "Study of nerves and muscles to identify sciatica, carpal tunnel syndrome and neuropathies."
+        },
+        "neurology": {
+            "name": "General Neurology",
+            "desc": "Consultations for headaches, migraines, strokes, Parkinson's and other neurological disorders."
+        }
+    },
+    "services_section": {
+        "badge": "Excellence Technical Platform",
+        "title_line1": "Next-Generation",
+        "title_line2": "Diagnostic Explorations",
+        "subtitle": "Cutting-edge technologies for rigorous diagnostics and optimal neurological care.",
+        "cta_discover": "Discover expertise",
+        "cta_title": "Your health deserves ",
+        "cta_title_highlight": "Excellence",
+        "cta_desc": "Commitment, rigor and empathy for each of our patients.",
+        "cta_button": "Book a Consultation",
+        "quality_label": "Diagnostic Quality",
+        "quality_sub": "European Standard",
+        "followup_label": "Personalized Follow-up",
+        "followup_sub": "Continuous support",
+        "expertise_label": "Advanced Expertise",
+        "expertise_sub": "Specialized EEG & ENMG",
+        "eeg": {
+            "title": "Electroencephalogram (EEG)",
+            "desc": "Diagnosis of epilepsy for adults, children and infants, metabolic encephalopathies and degenerative diseases.",
+            "b1": "Epilepsies",
+            "b2": "Consciousness disorders",
+            "b3": "Encephalopathies"
+        },
+        "enmg": {
+            "title": "Electroneuromyogram (ENMG)",
+            "desc": "Study of nerve conduction and muscle disorders.",
+            "b1": "Carpal tunnel",
+            "b2": "Peripheral neuropathies",
+            "b3": "Myopathies",
+            "b4": "Motor neuron disorders"
+        },
+        "pathologies": {
+            "title": "SPECIALIZED CONSULTATION FOR NEUROLOGICAL DISORDERS",
+            "desc": "Expert management of central and peripheral nervous system disorders.",
+            "b1": "Migraine",
+            "b2": "Epilepsy",
+            "b3": "Multiple Sclerosis",
+            "b4": "Parkinson's Disease",
+            "b5": "Alzheimer's Disease"
+        },
+        "expertise": {
+            "title": "SPECIALIZED EXPERTISE",
+            "desc": "An academic path of excellence dedicated to cutting-edge neurology.",
+            "b1": "Graduate in Neurology from the Faculty of Medicine of Rabat",
+            "b2": "Electroneuromyography from the Faculty of Medicine of Rabat",
+            "b3": "EEG certificate of VIREPA (adult and Pediatric)"
+        }
+    },
+    "map_section": {
+        "hours_title": "Opening Hours",
+        "hours_days": "Monday - Friday",
+        "hours_service": "Continuous Service",
+        "hours_note": "Except Wednesday until 1 PM",
+        "accessibility": "Wheelchair accessible entrance",
+        "social_title": "Follow us",
+        "cabinet_title": "Our Practice",
+        "cabinet_open": "Practice open",
+        "call_title": "Call now",
+        "call_desc": "Direct appointment booking",
+        "whatsapp_title": "WhatsApp / SMS",
+        "whatsapp_desc": "Quick contact 24/7"
+    },
+    "why_choose": {
+        "badge": "Commitment & Excellence",
+        "title": "Why choose the practice of",
+        "title_highlight": "Dr. Lachhab?",
+        "desc": "A modern neurology space combining cutting-edge technology and human care in the heart of Inezgane.",
+        "stat1_label": "EEG Precision",
+        "stat2_label": "Excellence",
+        "r1_title": "Specialized Expertise",
+        "r1_desc": "Graduate of the Faculty of Medicine in Rabat, with advanced specialization in EEG and ENMG.",
+        "r2_title": "Human Approach",
+        "r2_desc": "Attentive listening and personalized support for each patient.",
+        "r3_title": "Technical Platform",
+        "r3_desc": "Latest generation equipment for precise diagnostics."
+    },
+    "about": {
+        "title": "About Dr. Lachhab",
+        "subtitle": "Expertise & Academic Background",
+        "bio": "Specialist in neurology, graduate of the Faculty of Medicine in Rabat. Passionate about clinical electrophysiology (EEG/ENMG), she puts her expertise at the service of patients for a precise and human diagnosis.",
+        "hero": {
+            "badge": "Neurological Expertise",
+            "title": "Expertise that matches your",
+            "title_highlight": "Health.",
+            "badge_aggre": "Rabat Approved",
+            "badge_spec": "EEG/ENMG Specialist"
+        },
+        "diplomas": {
+            "section_badge": "Excellence & Training",
+            "section_title": "A Journey of",
+            "section_title_highlight": "High Qualification",
+            "validation": "Academic Validation",
+            "medecine": "Medical degree from the Faculty of Medicine and Pharmacy of Rabat",
+            "speciality": "Specialty degree in Neurology from the Faculty of Medicine and Pharmacy of Rabat",
+            "enmg": "Inter-university diploma in electroneuromyography from the Faculty of Medicine and Pharmacy of Rabat",
+            "eeg_adult": "VIREPA training in adult electroencephalography",
+            "eeg_pediatric": "VIREPA training in pediatric electroencephalography"
+        },
+        "values": {
+            "section_title": "Our",
+            "section_title_highlight": "Values",
+            "subtitle": "Patient-centered care philosophy",
+            "v1_title": "Human Approach",
+            "v1_desc": "Attentive listening to understand each patient beyond the symptoms.",
+            "v2_title": "Medical Precision",
+            "v2_desc": "Absolute rigor in EEG and ENMG diagnostics for reliable follow-up.",
+            "v3_title": "Innovation",
+            "v3_desc": "Use of the latest technologies in functional neuroimaging."
+        },
+        "cta": {
+            "title": "Need a neurological opinion?",
+            "desc": "Book an appointment now for a detailed consultation.",
+            "button": "Book now"
+        }
+    },
+    "specialties_page": {
+        "hero": {
+            "badge": "Neurology \u00b7 Explorations",
+            "available": "Available",
+            "title_p1": "Precision.",
+            "title_p2": "Expertise.",
+            "title_p3": "Care.",
+            "desc": "Cutting-edge neurological explorations \u2014 EEG & ENMG \u2014 dedicated to diagnostic precision.",
+            "cta": "Book Appointment"
+        },
+        "exams": {
+            "labels": {
+                "fields": "Fields of intervention",
+                "duration": "Duration",
+                "prep": "Preparation"
+            },
+            "eeg": {
+                "name": "Electroencephalogram",
+                "desc": "High-resolution mapping of cerebral electrical activity \u2014 the gold standard of neurological diagnosis.",
+                "prep": "Clean hair, no styling products.",
+                "duration": "45\u201360 min",
+                "ind": ["Epilepsies", "Consciousness disorders", "Encephalopathies", "Syncopal balance sheets"]
+            },
+            "enmg": {
+                "name": "Electroneuromyogram",
+                "desc": "Nerve conduction and muscle response analyzed with precision to locate any peripheral damage.",
+                "prep": "Clean skin, no cream or oil.",
+                "duration": "30\u201390 min",
+                "ind": ["Carpal Tunnel", "Sciatica", "Neuropathies", "Myopathies", "Nerve damage"]
+            }
+        },
+        "domains": {
+            "title": "Domains",
+            "title_highlight": "of care.",
+            "desc": "Expert support across the entire spectrum.",
+            "items": [
+                { "title": "Headaches & Migraines", "desc": "Background treatment, personalized protocols." },
+                { "title": "Post-Stroke", "desc": "Rigorous follow-up and coordinated rehabilitation." },
+                { "title": "Parkinson", "desc": "Management of motor and cognitive disorders." },
+                { "title": "Memory", "desc": "Early diagnosis, neuro-cognitive support." }
+            ]
+        },
+        "cta": {
+            "badge": "Consultations",
+            "title": "Your health,",
+            "title_highlight": "our priority.",
+            "desc": "Book an appointment for a complete check-up. Response within 24 hours.",
+            "button": "Plan a Check-up"
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "phone": "Phone",
+        "address": "Address",
+        "email": "Email",
+        "address_value": "Immeuble Amanar, 17 Ave Mohammed V, Inezgane 80000"
+    },
+    "common": {
+        "learn_more": "Learn more",
+        "read_more": "Read more",
+        "book_now": "Book now",
+        "contact_us": "Contact us",
+        "whatsapp_message": "Hello Dr. Lamiae Lachhab, I would like to book an appointment."
+    },
+    "cabinet": {
+        "title": "Our Environment",
+        "subtitle": "Explore Your Wellness Space",
+        "description": "Our practice combines technological modernity and a human approach to offer you the best care in a serene and reassuring setting.",
+        "highlights": {
+            "h1_title": "High Technology",
+            "h1_desc": "Latest generation EEG and ENMG equipment for absolute diagnostic precision.",
+            "h2_title": "Serene Environment",
+            "h2_desc": "Space designed for patient comfort and confidentiality at every stage.",
+            "h3_title": "Human Approach",
+            "h3_desc": "Attentive listening and tailor-made support for each patient.",
+            "h4_title": "Quality Standards",
+            "h4_desc": "Rigorous respect for hygiene and health safety standards."
+        },
+        "gallery": {
+            "img1": {
+                "title": "Welcome",
+                "desc": "Attentive listening and a rigorous neurological examination for a precise diagnosis."
+            },
+            "img2": {
+                "title": "EEG",
+                "desc": "Functional exploration of the brain for the diagnosis of epilepsy and other disorders."
+            },
+            "img3": {
+                "title": "EMG",
+                "desc": "Study of nerves and muscles to identify neuropathies and motor impairments."
+            },
+            "img4": {
+                "title": "Waiting Area",
+                "desc": "Enjoy a moment of calm in our modern waiting area."
+            },
+            "img5": {
+                "title": "Neurological Expertise",
+                "desc": "Dr. Lamiae Lachhab, neurologist, provides rigorous analysis and personalized care for every patient."
+            }
+        }
+    },
+    "testimonials": {
+        "title": "Patient Reviews",
+        "subtitle": "Your Health, Our Priority",
+        "description": "Discover our patients' feedback on the quality of our care and our human approach.",
+        "link_google": "See all reviews on Google",
+        "verified": "Verified Review",
+        "original": "View original review",
+        "items": {
+            "rev1": {
+                "author": "Khalid Baaza",
+                "text": "المعروف لا يعرف ماشاء الله تبارك الله، جازاك الله عنا كل خير",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/108673247291724330887/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@25.9374225,14.8637022,4z/data=!4m6!1m5!8m4!1e1!2s108673247291724330887!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDQwNS4wIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev2": {
+                "author": "EL HAIDI YOUSSEF",
+                "text": "Beyond her true professionalism. Dr. LACHHAB is a doctor of generous empathy. Thank you Doctor and looking forward to seeing you again.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/117463576070445448323/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@39.6309586,0.0429704,5z/data=!4m6!1m5!8m4!1e1!2s117463576070445448323!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev3": {
+                "author": "Khadija Bouderbala",
+                "text": "Wonderful, wonderful, wonderful. This doctor listens and examines you very well, I highly recommend.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/107211500207114050356/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3809108,-9.559695,14z/data=!4m6!1m5!8m4!1e1!2s107211500207114050356!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev4": {
+                "author": "Youssef Ouaboun",
+                "text": "An outstanding doctor who listens to patients with a refined approach.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/100456479162792204680/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3597048,-9.5337908,17z/data=!4m6!1m5!8m4!1e1!2s100456479162792204680!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev5": {
+                "author": "Radia Tangi",
+                "text": "Dr Lachhab has many human and professional qualities, very caring and attentive.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/100159072828208157610/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@31.8273152,-8.8778163,8z/data=!4m4!1m3!8m2!1e1!2s100159072828208157610?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev6": {
+                "author": "Ahlam Chekri",
+                "text": "An excellent doctor who takes great care of you.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/115726043030514907266/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3597048,-9.5337908,17z/data=!4m6!1m5!8m4!1e1!2s115726043030514907266!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            }
+        }
+    },
+    "contact_page": {
+        "hero": {
+            "badge": "Direct Line",
+            "title": "Get in",
+            "title_highlight": "Touch",
+            "desc": "Our office welcomes you Monday to Friday to answer all your questions."
+        },
+        "details": {
+            "title": "Contact Details",
+            "phone": "Phone",
+            "whatsapp": "WhatsApp",
+            "address": "Address",
+            "sec": "Reception",
+            "urgency": "EEG Urgency",
+            "building": "Amanar Building"
+        },
+        "form": {
+            "title": "Leave a Message",
+            "labels": {
+                "name": "Full Name",
+                "contact": "Email / Mobile",
+                "subject": "Subject",
+                "message": "Message"
+            },
+            "placeholders": {
+                "name": "E.g.: Ahmed Alami",
+                "contact": "E.g.: 06...",
+                "subject": "E.g.: Appointment booking, EEG...",
+                "message": "Describe your request..."
+            },
+            "button": "Send Message",
+            "alert_success": "Message sent! (Simulation)"
+        }
+    },
+    "appointment_page": {
+        "hero": {
+            "badge": "Book now",
+            "title": "Make an",
+            "title_highlight": "Appointment",
+            "desc": "Leading neurological expertise at your service in Inezgane."
+        },
+        "channels": {
+            "call": "Call",
+            "whatsapp": "WhatsApp"
+        },
+        "location": {
+            "title": "Location",
+            "address": "Amanar Building, 17 Ave Mohammed V, Inezgane 80000"
+        },
+        "schedule": {
+            "title": "Opening Hours",
+            "days": {
+                "mon": "Monday",
+                "tue": "Tuesday",
+                "wed": "Wednesday",
+                "thu": "Thursday",
+                "fri": "Friday",
+                "sat_sun": "Sat/Sun"
+            },
+            "closed": "Closed"
+        },
+        "instruction": "Bring your prescriptions and previous exams.",
+        "urgent": {
+            "title": "Need an urgent appointment?",
+            "desc": "Guaranteed response within 24h/48h.",
+            "button": "Call Now"
+        }
+    },
+    "blog_page": {
+        "hero": {
+            "badge": "Medical Insights",
+            "title": "Neurology",
+            "title_highlight": "Magazine",
+            "desc": "Explore the latest medical advances and our advice for preserving your neurological health."
+        },
+        "ui": {
+            "read_more": "Read more",
+            "close": "Close article",
+            "expert_note": "Expert's Note",
+            "expert_note_desc": "\"Early diagnosis using specialized exams like EEG or ENMG is often the key to successful management.\"",
+            "tags_label": "Neurology, Health, Wellness",
+            "newsletter_badge": "Stay Informed",
+            "newsletter_title": "Your neurological health",
+            "newsletter_title_highlight": "is our priority."
+        },
+        "categories": {
+            "neurology": "Neurology",
+            "diagnostic": "Diagnostic",
+            "prevention": "Prevention",
+            "urgency": "Urgency",
+            "neurodegenerative": "Neurodegenerative",
+            "consultation": "Consultation",
+            "pediatrics": "Pediatrics"
+        },
+        "posts": {
+            "p1": {
+                "title": "Migraines: Causes and Modern Solutions",
+                "excerpt": "Discover how to identify types of migraines and current treatments to lasting relief for your pain.",
+                "content": "A migraine is not just a simple headache. It is a complex neurological condition that can be disabling in daily life. It is often characterized by throbbing pain, usually on one side of the head, accompanied by nausea and hypersensitivity to light. Causes can vary: stress, hormonal changes, or environmental factors. Today, preventive treatments and lifestyle rules can significantly reduce the frequency of attacks."
+            },
+            "p2": {
+                "title": "Understanding EEG: The Key Brain Exam",
+                "excerpt": "Why does your doctor request an EEG? How does this painless and essential exam take place?",
+                "content": "Electroencephalography (EEG) is a fundamental exam in neurology. It records the electrical activity of neurons using electrodes placed on the scalp. This exam is crucial for diagnosing epilepsy, but also for exploring sleep disorders, encephalopathies, or loss of consciousness. Completely painless and non-invasive, it provides valuable information about brain function in real-time."
+            },
+            "p3": {
+                "title": "Sleep and Neurological Health",
+                "excerpt": "The link between the quality of your sleep and the proper functioning of your brain is closer than we think.",
+                "content": "Good sleep is the guarantee of a healthy brain. While we sleep, our brain performs a real biological \"cleaning,\" consolidating memory and eliminating toxins. Sleep disorders (insomnia, apnea, restless legs syndrome) can have repercussions on mood, concentration, and increase the risk of neurological pathologies in the long term."
+            },
+            "p4": {
+                "title": "Epilepsy: Understanding Seizures",
+                "excerpt": "Living with epilepsy requires appropriate management and a deep understanding of the disease.",
+                "content": "Epilepsy is one of the most common neurological conditions. It is defined by a durable predisposition to generate epileptic seizures, the result of a sudden and excessive electrical discharge in the brain. Contrary to popular belief, there are many forms of epilepsy, and the majority of patients can lead a normal life thanks to well-measured drug treatment."
+            },
+            "p5": {
+                "title": "Stroke: Warning Signs",
+                "excerpt": "Every minute counts. Learn to recognize symptoms to react at the first signs.",
+                "content": "Stroke (Cerebrovascular Accident) is an absolute emergency. Facial distortion, weakness in an arm or leg, or difficulty speaking should alert immediately. Rapid management in a neurovascular unit limits sequelae and improves prognosis. Prevention involves controlling hypertension, diabetes, and cholesterol."
+            },
+            "p6": {
+                "title": "Parkinson's Disease",
+                "excerpt": "A practical guide on symptoms, management, and therapeutic innovations.",
+                "content": "Parkinson's disease affects motor skills but also mood and sleep. It is linked to the degeneration of neurons producing dopamine. While tremors are the best-known sign, slowness of movement and stiffness are also characteristic. Today, although we do not yet know how to cure it, many treatments allow effective control of symptoms for many years."
+            },
+            "p7": {
+                "title": "Everything About ENMG",
+                "excerpt": "How does an ENMG take place? This exam is essential for diagnosing nerve and muscle pathologies.",
+                "content": "ENMG (Electroneuromyogram) allows studying the functioning of nerves and muscles. It helps diagnose common pathologies such as carpal tunnel syndrome, sciatica from a herniated disc, or diabetic neuropathies. The exam takes place in two stages: analysis of nerve conduction and examination of muscles using a fine electrode needle."
+            },
+            "p8": {
+                "title": "Tension Headaches",
+                "excerpt": "Stress is often the cause. Discover exercises and tips to relieve these frequent headaches.",
+                "content": "Unlike migraines, tension headaches are often linked to stress or muscle tension in the neck. The pain is usually diffuse, like a tight band around the skull. Better stress management, improved posture at work, and relaxation exercises are often more effective than simple painkillers in the long term."
+            },
+            "p9": {
+                "title": "Pediatric Neurology",
+                "excerpt": "Neuro-motor development and clinical signs to monitor in children and infants.",
+                "content": "The child's brain is growing and has its own neurological specificities. From early screening for developmental disorders to management of childhood epilepsy, pediatric neurology requires a gentle and adapted approach. Monitoring motor and language development milestones is essential for acting early if necessary."
+            }
+        }
+    },
+    "appointment_modal": {
+        "welcome": "WELCOME TO THE CLINIC",
+        "doctor": "DR LAMIAE LACHHAB",
+        "city": "INEZGANE",
+        "service": "EXPRESS APPOINTMENT SERVICE",
+        "info_text": "Please fill in your information for a quick follow-up by our secretariat.",
+        "name_label": "Your full name",
+        "date_label": "dd/mm/yyyy",
+        "slot_morning": "MORNING",
+        "slot_afternoon": "AFTERNOON",
+        "send": "SEND",
+        "invalid_date": "Please choose a working day (Monday - Friday)"
+    }
+}

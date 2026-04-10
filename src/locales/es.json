@@ -1,0 +1,453 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "about": "Sobre mí",
+        "specialties": "Especialidades",
+        "appointment": "Reservar Cita",
+        "contact": "Contacto",
+        "blog": "Blog"
+    },
+    "hero": {
+        "title": "Dra. Lamiae Lachhab",
+        "subtitle": "Neuróloga",
+        "description": "Consultorio médico especializado en neurología y exploraciones neurofisiológicas EEG EMG en Inezgane.",
+        "cta_appointment": "Reservar Cita",
+        "cta_whatsapp": "WhatsApp"
+    },
+    "footer": {
+        "description": "Cl\u00ednica de Neurolog\u00eda y Exploraciones Funcionales (EEG & ENMG).",
+        "copyright": "Excelencia Neurol\u00f3gica."
+    },
+    "services": {
+        "title": "Nuestros Servicios",
+        "eeg": {
+            "name": "EEG (Electroencefalografía)",
+            "desc": "Análisis de la actividad eléctrica del cerebro para diagnosticar la epilepsia y otros trastornos."
+        },
+        "enmg": {
+            "name": "ENMG (Electroneuromiografía)",
+            "desc": "Estudio de nervios y músculos para identificar ciática, túnel carpiano y neuropatías."
+        },
+        "neurology": {
+            "name": "Neurología General",
+            "desc": "Consultas para dolores de cabeza, migrañas, ACV, Parkinson y otros trastornos neurológicos."
+        }
+    },
+    "services_section": {
+        "badge": "Plataforma Técnica de Excelencia",
+        "title_line1": "Exploraciones Diagnósticas de",
+        "title_line2": "Última Generación",
+        "subtitle": "Tecnologías de vanguardia para un diagnóstico riguroso y una atención neurológica óptima.",
+        "cta_discover": "Descubrir la experiencia",
+        "cta_title": "Su salud merece la ",
+        "cta_title_highlight": "Excelencia",
+        "cta_desc": "Compromiso, rigor y empatía para cada uno de nuestros pacientes.",
+        "cta_button": "Reservar una Consulta",
+        "quality_label": "Calidad de Diagnóstico",
+        "quality_sub": "Estándar Europeo",
+        "followup_label": "Seguimiento Personalizado",
+        "followup_sub": "Acompañamiento continuo",
+        "expertise_label": "Peritaje de Vanguardia",
+        "expertise_sub": "EEG & ENMG Especializado",
+        "eeg": {
+            "title": "Electroencefalograma (EEG)",
+            "desc": "Diagnóstico de epilepsia para adultos, niños y lactantes, encefalopatias metabólicas y enfermedades degenerativas.",
+            "b1": "Epilepsias",
+            "b2": "Trastornos de consciencia",
+            "b3": "Encefalopatias"
+        },
+        "enmg": {
+            "title": "Electroneuromiograma (ENMG)",
+            "desc": "Estudio de la conducción nerviosa y lesiones musculares.",
+            "b1": "Túnel carpiano",
+            "b2": "Neuropatías periféricas",
+            "b3": "Miopatías",
+            "b4": "Lesiones de la motoneurona"
+        },
+        "pathologies": {
+            "title": "CONSULTA ESPECIALIZADA EN PATOLOGÍAS NEUROLÓGICAS",
+            "desc": "Tratamiento experto de los trastornos del sistema nervioso central y periférico.",
+            "b1": "Migraña",
+            "b2": "Epilepsia",
+            "b3": "Esclerosis múltiple",
+            "b4": "Parkinson",
+            "b5": "Alzheimer"
+        },
+        "expertise": {
+            "title": "EXPERIENCIA ESPECIALIZADA",
+            "desc": "Una trayectoria académica de excelencia dedicada a la neurología de vanguardia.",
+            "b1": "Graduada en Neurología por la Facultad de Medicina de Rabat",
+            "b2": "Electroneuromiografía por la Facultad de Medicina de Rabat",
+            "b3": "Certificado EEG de VIREPA (adulto y pediátrico)"
+        }
+    },
+    "map_section": {
+        "hours_title": "Horario",
+        "hours_days": "Lunes - Viernes",
+        "hours_service": "Servicio Continuo",
+        "hours_note": "Excepto miércoles hasta las 13:00",
+        "accessibility": "Entrada accesible en silla de ruedas",
+        "social_title": "Síguenos",
+        "cabinet_title": "Nuestra Clínica",
+        "cabinet_open": "Clínica abierta",
+        "call_title": "Llamar ahora",
+        "call_desc": "Reserva directa de cita",
+        "whatsapp_title": "WhatsApp / SMS",
+        "whatsapp_desc": "Contacto rápido 24h/24"
+    },
+    "why_choose": {
+        "badge": "Compromiso y Excelencia",
+        "title": "¿Por qué elegir el consultorio de",
+        "title_highlight": "la Dra. Lachhab?",
+        "desc": "Un espacio moderno de neurología que combina tecnología de vanguardia y atención humana en el corazón de Inezgane.",
+        "stat1_label": "Precisión EEG",
+        "stat2_label": "Excelencia",
+        "r1_title": "Experiencia Especializada",
+        "r1_desc": "Graduada de la Facultad de Medicina de Rabat, con especialización avanzada en EEG y ENMG.",
+        "r2_title": "Enfoque Humano",
+        "r2_desc": "Escucha atenta y acompañamiento personalizado para cada paciente.",
+        "r3_title": "Plataforma Técnica",
+        "r3_desc": "Equipamiento de última generación para diagnósticos precisos."
+    },
+    "about": {
+        "title": "Sobre la Dra. Lachhab",
+        "subtitle": "Experiencia y Trayectoria Acad\u00e9mica",
+        "bio": "Especialista en neurolog\u00eda, graduada de la Facultad de Medicina de Rabat. Passionn\u00e9e par l'\u00e9lectrophysiologie clinique (EEG/ENMG), pone su experiencia al servicio de los pacientes para un diagn\u00f3stico preciso y humano.",
+        "hero": {
+            "badge": "Experiencia Neurol\u00f3gica",
+            "title": "Una experiencia a la altura de su",
+            "title_highlight": "Salud.",
+            "badge_aggre": "Aprobada Rabat",
+            "badge_spec": "Especialista EEG/ENMG"
+        },
+        "diplomas": {
+            "section_badge": "Excelencia y Formaci\u00f3n",
+            "section_title": "Una Trayectoria de",
+            "section_title_highlight": "Alta Calificaci\u00f3n",
+            "validation": "Validaci\u00f3n Acad\u00e9mica",
+            "medecine": "T\u00edtulo de medicina de la Facultad de Medicina y Farmacia de Rabat",
+            "speciality": "T\u00edtulo de especialidad en Neurolog\u00eda de la Facultad de Medicina y Farmacia de Rabat",
+            "enmg": "Diploma interuniversitario en electroneuromiograf\u00eda de la Facultad de Medicina y Farmacia de Rabat",
+            "eeg_adult": "Formaci\u00f3n VIREPA en electroencefalograf\u00eda de adultos",
+            "eeg_pediatric": "Formaci\u00f3n VIREPA en electroencefalograf\u00eda pedi\u00e1trica"
+        },
+        "values": {
+            "section_title": "Nuestros",
+            "section_title_highlight": "Valores",
+            "subtitle": "Filosof\u00eda de atenci\u00f3n centrada en el paciente",
+            "v1_title": "Enfoque Humano",
+            "v1_desc": "Una escucha atenta para comprender a cada paciente m\u00e1s all\u00e1 de los s\u00edntomas.",
+            "v2_title": "Precisi\u00f3n M\u00e9dica",
+            "v2_desc": "Rigor absoluto en los diagn\u00f3sticos de EEG y ENMG para un seguimiento fiable.",
+            "v3_title": "Innovaci\u00f3n",
+            "v3_desc": "Uso de las \u00faltimas tecnolog\u00edas en neuroimagen funcional."
+        },
+        "cta": {
+            "title": "\u00bfNecesita una opini\u00f3n neurol\u00f3gica?",
+            "desc": "Reserve una cita ahora para una consulta detallada.",
+            "button": "Reservar ahora"
+        }
+    },
+    "specialties_page": {
+        "hero": {
+            "badge": "Neurolog\u00eda \u00b7 Exploraciones",
+            "available": "Disponible",
+            "title_p1": "Precisi\u00f3n.",
+            "title_p2": "Experiencia.",
+            "title_p3": "Cuidado.",
+            "desc": "Exploraciones neurol\u00f3gicas de vanguardia \u2014 EEG & ENMG \u2014 dedicadas a la precisi\u00f3n diagn\u00f3stica.",
+            "cta": "Reservar Cita"
+        },
+        "exams": {
+            "labels": {
+                "fields": "Campos de intervenci\u00f3n",
+                "duration": "Duraci\u00f3n",
+                "prep": "Preparaci\u00f3n"
+            },
+            "eeg": {
+                "name": "Electroencefalogramma",
+                "desc": "Mapeo de alta resoluci\u00f3n de la actividad el\u00e9ctrica cerebral \u2014 el est\u00e1ndar de oro del diagn\u00f3stico neurol\u00f3gico.",
+                "prep": "Cabello limpio, sin productos de peinado.",
+                "duration": "45\u201360 min",
+                "ind": ["Epilepsias", "Trastornos de consciencia", "Encefalopat\u00edas", "Evaluaci\u00f3n de s\u00edncope"]
+            },
+            "enmg": {
+                "name": "Electroneuromiograma",
+                "desc": "Conducci\u00f3n nerviosa y respuesta muscular analizadas con precisi\u00f3n para localizar cualquier da\u00f1o perif\u00e9rico.",
+                "prep": "Piel limpia, sin crema ni aceite.",
+                "duration": "30\u201390 min",
+                "ind": ["T\u00fanel Carpiano", "Ciatalgias", "Neuropat\u00edas", "Miopat\u00edas", "Da\u00f1o nervioso"]
+            }
+        },
+        "domains": {
+            "title": "Dominios",
+            "title_highlight": "de cuidado.",
+            "desc": "Apoyo experto en todo el espectro.",
+            "items": [
+                { "title": "Cefaleas & Migra\u00f1as", "desc": "Tratamiento de fondo, protocolos personalizados." },
+                { "title": "Post-ACV", "desc": "Seguimiento riguroso y rehabilitaci\u00f3n coordinada." },
+                { "title": "Parkinson", "desc": "Gesti\u00f3n de trastornos motores y cognitivos." },
+                { "title": "Memoria", "desc": "Diagn\u00f3stico precoz, apoyo neurocognitivo." }
+            ]
+        },
+        "cta": {
+            "badge": "Consultas",
+            "title": "Su salud,",
+            "title_highlight": "nuestra prioridad.",
+            "desc": "Reserve una cita para un chequeo completo. Respuesta en 24 horas.",
+            "button": "Planificar Chequeo"
+        }
+    },
+    "contact": {
+        "title": "Contáctenos",
+        "phone": "Teléfono",
+        "address": "Dirección",
+        "email": "Correo electrónico",
+        "address_value": "Immeuble Amanar, 17 Ave Mohammed V, Inezgane 80000"
+    },
+    "common": {
+        "learn_more": "Saber más",
+        "read_more": "Leer más",
+        "book_now": "Reservar ahora",
+        "contact_us": "Contáctenos",
+        "whatsapp_message": "Hola Dra. Lamiae Lachhab, me gustaría reservar una cita."
+    },
+    "cabinet": {
+        "title": "Nuestro Entorno",
+        "subtitle": "Explore su Espacio de Bienestar",
+        "description": "Nuestra clínica combina modernidad tecnológica y enfoque humano para ofrecerle la mejor atención en un entorno sereno y tranquilizador.",
+        "highlights": {
+            "h1_title": "Alta Tecnología",
+            "h1_desc": "Equipos de EEG y ENMG de última generación para una precisión diagnóstica absoluta.",
+            "h2_title": "Entorno Sereno",
+            "h2_desc": "Espacio diseñado para la comodidad y confidencialidad de los pacientes en cada etapa.",
+            "h3_title": "Enfoque Humano",
+            "h3_desc": "Escucha atenta y apoyo a medida para cada paciente.",
+            "h4_title": "Estándares de Calidad",
+            "h4_desc": "Respeto riguroso de las normas de higiene y seguridad sanitaria."
+        },
+        "gallery": {
+            "img1": {
+                "title": "Recepción",
+                "desc": "Escucha atenta y un examen neurológico riguroso para un diagnóstico preciso."
+            },
+            "img2": {
+                "title": "EEG",
+                "desc": "Exploración funcional del cerebro para el diagnóstico de epilepsia y otros trastornos."
+            },
+            "img3": {
+                "title": "EMG",
+                "desc": "Estudio de nervios y músculos para identificar neuropatías y deficiencias motoras."
+            },
+            "img4": {
+                "title": "Sala de Espera",
+                "desc": "Disfrute de un momento de calma en nuestra moderna sala de espera."
+            },
+            "img5": {
+                "title": "Especialidad Neurológica",
+                "desc": "La Dra. Lamiae Lachhab, neuróloga, ofrece un análisis riguroso y una atención personalizada para cada paciente."
+            }
+        }
+    },
+    "testimonials": {
+        "title": "Opiniones de nuestros Pacientes",
+        "subtitle": "Su Salud, Nuestra Prioridad",
+        "description": "Descubra las experiencias de nuestros pacientes sobre la calidad de nuestra atención y nuestro enfoque humano.",
+        "link_google": "Ver todas las opiniones en Google",
+        "verified": "Opinión verificada",
+        "original": "Ver opinión original",
+        "items": {
+            "rev1": {
+                "author": "Khalid Baaza",
+                "text": "المعروف لا يعرف ماشاء الله تبارك الله، جازاك الله عنا كل خير",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/108673247291724330887/place/ChIJFwsuTf3Hsw0RhxF3izLNb_E/@25.9374225,14.8637022,4z/data=!4m6!1m5!8m4!1e1!2s108673247291724330887!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev2": {
+                "author": "EL HAIDI YOUSSEF",
+                "text": "Más allá de su verdadero profesionalismo. La Dra. LACHHAB es una médica de empatía generosa. Gracias Doctora y con ganas de volver a verla.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/117463576070445448323/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@39.6309586,0.0429704,5z/data=!4m6!1m5!8m4!1e1!2s117463576070445448323!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev3": {
+                "author": "Khadija Bouderbala",
+                "text": "Encantadora, encantadora, encantadora. Esta doctora te escucha bien y te examina bien, lo recomiendo ampliamente.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/107211500207114050356/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3809108,-9.559695,14z/data=!4m6!1m5!8m4!1e1!2s107211500207114050356!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev4": {
+                "author": "Youssef Ouaboun",
+                "text": "Doctora destacada, que escucha a los pacientes con un trato refinado.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/100456479162792204680/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3597048,-9.5337908,17z/data=!4m6!1m5!8m4!1e1!2s100456479162792204680!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev5": {
+                "author": "Radia Tangi",
+                "text": "La Dra. Lachhab tiene muchas cualidades humanas y profesionales, muy atenta y siempre a la escucha.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/100159072828208157610/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@31.8273152,-8.8778163,8z/data=!4m4!1m3!8m2!1e1!2s100159072828208157610?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev6": {
+                "author": "Ahlam Chekri",
+                "text": "Una doctora excelente que cuida mucho de sus pacientes.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/115726043030514907266/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3597048,-9.5337908,17z/data=!4m6!1m5!8m4!1e1!2s115726043030514907266!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            }
+        }
+    },
+    "contact_page": {
+        "hero": {
+            "badge": "L\u00ednea Directa",
+            "title": "P\u00f3ngase en",
+            "title_highlight": "Contacto",
+            "desc": "Nuestra oficina le da la bienvenida de lunes a viernes para responder todas sus preguntas."
+        },
+        "details": {
+            "title": "Datos de Contacto",
+            "phone": "Tel\u00e9fono",
+            "whatsapp": "WhatsApp",
+            "address": "Direcci\u00f3n",
+            "sec": "Secretar\u00eda",
+            "urgency": "Urgencia EEG",
+            "building": "Edificio Amanar"
+        },
+        "form": {
+            "title": "Deje un Mensaje",
+            "labels": {
+                "name": "Nombre Completo",
+                "contact": "Email / M\u00f3vil",
+                "subject": "Asunto",
+                "message": "Mensaje"
+            },
+            "placeholders": {
+                "name": "Ej.: Ahmed Alami",
+                "contact": "Ej.: 06...",
+                "subject": "Ej.: Reserva de cita, EEG...",
+                "message": "Describa su necesidad..."
+            },
+            "button": "Enviar Mensaje",
+            "alert_success": "\u00a1Mensaje enviado! (Simulaci\u00f3n)"
+        }
+    },
+    "appointment_page": {
+        "hero": {
+            "badge": "Reservar ahora",
+            "title": "Agendar una",
+            "title_highlight": "Cita",
+            "desc": "Experiencia neurol\u00f3gica de vanguardia a su servicio en Inezgane."
+        },
+        "channels": {
+            "call": "Llamada",
+            "whatsapp": "WhatsApp"
+        },
+        "location": {
+            "title": "Localizaci\u00f3n",
+            "address": "Edificio Amanar, 17 Ave Mohammed V, Inezgane 80000"
+        },
+        "schedule": {
+            "title": "Horarios de Apertura",
+            "days": {
+                "mon": "Lunes",
+                "tue": "Martes",
+                "wed": "Mi\u00e9rcoles",
+                "thu": "Jueves",
+                "fri": "Viernes",
+                "sat_sun": "S\u00e1b/Dom"
+            },
+            "closed": "Cerrado"
+        },
+        "instruction": "Traiga sus recetas y ex\u00e1menes anteriores.",
+        "urgent": {
+            "title": "\u00bfNecesita una cita urgente?",
+            "desc": "Respuesta garantizada en 24h/48h.",
+            "button": "Llamar Ahora"
+        }
+    },
+    "blog_page": {
+        "hero": {
+            "badge": "Perspectivas M\u00e9dicas",
+            "title": "Revista de",
+            "title_highlight": "Neurolog\u00eda",
+            "desc": "Explore los \u00faltimos avances m\u00e9dicos y nuestros consejos para preservar su salud neurol\u00f3gica."
+        },
+        "ui": {
+            "read_more": "Leer m\u00e1s",
+            "close": "Cerrar art\u00edculo",
+            "expert_note": "Nota del Experto",
+            "expert_note_desc": "\"El diagn\u00f3stico precoz mediante ex\u00e1menes especializados como el EEG o el ENMG suele ser la clave para un tratamiento exitoso.\"",
+            "tags_label": "Neurolog\u00eda, Salud, Bienestar",
+            "newsletter_badge": "Mant\u00e9ngase Informado",
+            "newsletter_title": "Su salud neurol\u00f3gica",
+            "newsletter_title_highlight": "es nuestra prioridad."
+        },
+        "categories": {
+            "neurology": "Neurología",
+            "diagnostic": "Diagnóstico",
+            "prevention": "Prevención",
+            "urgency": "Urgencia",
+            "neurodegenerative": "Neurodegenerativo",
+            "consultation": "Consulta",
+            "pediatrics": "Pediatría"
+        },
+        "posts": {
+            "p1": {
+                "title": "Migrañas: Causas y Soluciones Modernas",
+                "excerpt": "Descubra cómo identificar los tipos de migraña y los tratamientos actuales para aliviar sus dolores de forma duradera.",
+                "content": "Una migraña no es un simple dolor de cabeza. Es una afección neurológica compleja que puede ser incapacitante en la vida diaria. A menudo se caracteriza por un dolor pulsátil, generalmente en un lado de la cabeza, acompañado de náuseas y una hipersensibilidad a la luz. Las causas pueden variar: estrés, cambios hormonales o factores ambientales. Hoy en día, los tratamientos preventivos y las reglas de higiene de vida permiten reducir significativamente la frecuencia de las crisis."
+            },
+            "p2": {
+                "title": "Entender el EEG: El Examen Clave del Cerebro",
+                "excerpt": "¿Por qué su médico solicita un EEG? ¿Cómo se desarrolla este examen indoloro y esencial?",
+                "content": "La electroencefalografía (EEG) es un examen fundamental en neurología. Permite registrar la actividad eléctrica de las neuronas mediante electrodos colocados en el cuero cabelludo. Este examen es crucial para diagnosticar la epilepsia, pero también para explorar trastornos del sueño, encefalopatías o pérdidas de conocimiento. Totalmente indoloro y no invasivo, proporciona información valiosa sobre el funcionamiento cerebral en tiempo real."
+            },
+            "p3": {
+                "title": "Sueño y Salud Neurológica",
+                "excerpt": "El vínculo entre la calidad de su sueño y el buen funcionamiento de su cerebro es más estrecho de lo que se piensa.",
+                "content": "Un buen sueño es la garantía de un cerebro sano. Mientras dormimos, nuestro cerebro realiza una verdadera \"limpieza\" biológica, consolidando la memoria y eliminando toxinas. Los trastornos del sueño (insomnio, apnea, síndrome de piernas inquietas) pueden tener repercusiones en el estado de ánimo, la concentración y aumentar el riesgo de patologías neurológicas a largo plazo."
+            },
+            "p4": {
+                "title": "Epilepsia: Entender las Crisis",
+                "excerpt": "Vivir con epilepsia requiere un manejo adecuado y una comprensión profunda de la enfermedad.",
+                "content": "La epilepsia es una de las afecciones neurológicas más frecuentes. Se define por una predisposición duradera a generar crisis epilépticas, resultado de una descarga eléctrica repentina y excesiva en el cerebro. Contrariamente a las ideas recibidas, existen muchas formas de epilepsia, y la mayoría de los pacientes pueden llevar una vida normal gracias a un tratamiento medicamentoso bien adaptado."
+            },
+            "p5": {
+                "title": "ACV: Las Señales de Alerta",
+                "excerpt": "Cada minuto cuenta. Aprenda a reconocer los síntomas para actuar ante las primeras señales.",
+                "content": "El ACV (Accidente Cerebrovascular) es una urgencia absoluta. Una deformación del rostro, una debilidad en un brazo o una pierna, o dificultades para hablar deben alertar de inmediato. Un manejo rápido en una unidad neurovascular permite limitar las secuelas y mejorar el pronóstico. La prevención pasa por el control de la hipertensión, la diabetes y el colesterol."
+            },
+            "p6": {
+                "title": "La Enfermedad de Parkinson",
+                "excerpt": "Una guía práctica sobre los síntomas, el manejo y las innovaciones terapéuticas.",
+                "content": "La enfermedad de Parkinson afecta a la motricidad, pero también al estado de ánimo y al sueño. Está relacionada con la degeneración de las neuronas que producen dopamina. Si el temblor es el signo más conocido, la lentitud de movimiento y la rigidez son también características fundamentales. Hoy en día, aunque todavía no sepamos curarla definitivamente, numerosos tratamientos permiten controlar eficazmente los síntomas durante muchos años."
+            },
+            "p7": {
+                "title": "Todo sobre el ENMG",
+                "excerpt": "¿Cómo se desarrolla un ENMG? Este examen es indispensable para diagnosticar patologías de nervios y músculos.",
+                "content": "El ENMG (Electroneuromiograma) permite estudiar el funcionamiento de los nervios y los músculos. Ayuda a diagnosticar patologías frecuentes como el síndrome del túnel carpiano, la ciática por hernia discal o las neuropatías diabéticas. El examen se desarrolla en dos etapas: el análisis de la conducción nerviosa y el examen de los músculos mediante una fina aguja electrodo."
+            },
+            "p8": {
+                "title": "Cefaleas tensionales",
+                "excerpt": "El estrés es a menudo la causa. Descubra ejercicios y consejos para aliviar estos dolores de cabeza frecuentes.",
+                "content": "A diferencia de las migrañas, los dolores de cabeza tensionales suelen estar relacionados con el estrés o la tensión muscular en el cuello. El dolor suele ser difuso, como una banda apretada alrededor del cráneo. Un mejor manejo del estrés, una mejora de la postura en el trabajo y ejercicios de relajación suelen ser más eficaces que los simples analgésicos a largo plazo."
+            },
+            "p9": {
+                "title": "Neurología Pediátrica",
+                "excerpt": "Desarrollo neuromotor y signos clínicos a vigilar en niños y lactantes.",
+                "content": "El cerebro del niño está en pleno crecimiento y tiene sus propias especificidades neurológicas. Desde la detección precoz de trastornos del desarrollo hasta el manejo de la epilepsia infantil, la neurología pediátrica requiere un enfoque suave y adaptado. El seguimiento de los hitos del desarrollo motor y del lenguaje es esencial para actuar precozmente si es necesario."
+            }
+        }
+    },
+    "appointment_modal": {
+        "welcome": "BIENVENIDO A LA CLÍNICA",
+        "doctor": "DRA LAMIAE LACHHAB",
+        "city": "INEZGANE",
+        "service": "SERVICIO DE CITA RÁPIDA",
+        "info_text": "Por favor, complete sus datos para un seguimiento rápido por parte de nuestra secretaría.",
+        "name_label": "Su nombre completo",
+        "date_label": "dd/mm/aaaa",
+        "slot_morning": "MAÑANA",
+        "slot_afternoon": "TARDE",
+        "send": "ENVIAR",
+        "invalid_date": "Por favor, elija un día laborable (Lunes - Viernes)"
+    }
+}
