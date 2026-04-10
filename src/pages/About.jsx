@@ -6,7 +6,9 @@ import { Award, GraduationCap, CheckCircle2, Heart, ShieldCheck, Microscope,  Ar
 import { motion } from 'framer-motion'
 import { NeuralNetwork, EEGWave } from '../components/common/EEGBackground'
 import { useModal } from '../context/ModalContext'
-     
+
+
+
 const About = () => {
     const { t, i18n } = useTranslation()
     const { openAppointmentModal } = useModal()
