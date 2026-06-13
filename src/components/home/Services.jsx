@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { EEGWave } from '../common/EEGBackground'
 import { useModal } from '../../context/ModalContext'
-
+   
 const ServiceCard = ({ icon: Icon, title, description, benefits, delay, index, discoverLabel }) => (
     <motion.div
         initial={{ opacity: 0, y: 30 }}
