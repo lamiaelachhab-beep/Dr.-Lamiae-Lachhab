@@ -41,7 +41,7 @@ const About = () => {
             </Helmet>
 
             {/* Hero Section - Elite Introduction */}
-            <section className="relative pt-20 pb-12 lg:pt-24 lg:pb-16 bg-slate-50/50">
+            <section className="relative pt-44 pb-12 sm:pt-32 sm:pb-16 bg-slate-50/50">
                 <NeuralNetwork color="#83cfd2" className="opacity-10 scale-125 rotate-[-10deg] absolute top-[-10%] right-[-10%]" />
                 <EEGWave className="top-16 right-0 w-2/3 opacity-5 absolute" />
 

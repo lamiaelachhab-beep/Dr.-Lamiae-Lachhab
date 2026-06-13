@@ -54,7 +54,7 @@ const Specialties = () => {
             {/* ══════════════════════════════════
                 HERO — more compact, raw typographic
             ══════════════════════════════════ */}
-            <section className="relative bg-white flex flex-col overflow-hidden pt-28 pb-12 sm:pt-32 sm:pb-16">
+            <section className="relative bg-white flex flex-col overflow-hidden pt-44 pb-12 sm:pt-32 sm:pb-16">
                 {/* vertical rule left — hidden on small mobile */}
                 <div className={`absolute top-0 bottom-0 w-px bg-slate-50 z-10 hidden xs:block ${isArabic ? 'right-6 sm:right-16' : 'left-6 sm:left-16'}`} />
 

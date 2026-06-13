@@ -13,7 +13,7 @@ const Hero = () => {
     const isArabic = i18n.language === 'ar'
 
     return (
-        <div className="relative min-h-[70vh] flex items-center pt-32 pb-16 lg:pt-40 lg:pb-20 overflow-hidden bg-primary/5">
+        <div className="relative min-h-[70vh] flex items-center pt-40 pb-16 lg:pt-40 lg:pb-20 overflow-hidden bg-primary/5">
             {/* Dynamic Background Elements */}
             <NeuralNetwork color="#83cfd2" className="opacity-30 lg:opacity-60 scale-150 rotate-12" />
             <div className={`absolute top-0 w-1/2 h-full bg-gradient-to-l from-primary/10 to-transparent -z-10 ${isArabic ? 'left-0 bg-gradient-to-r' : 'right-0'}`} />

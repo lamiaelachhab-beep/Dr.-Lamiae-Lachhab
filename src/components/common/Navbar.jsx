@@ -30,10 +30,24 @@ const Navbar = () => {
     ]
 
     const contactActions = [
-        { icon: Phone, href: "tel:0528832466", label: isArabic ? 'اتصال' : 'Appeler', color: "bg-primary/10 text-primary hover:bg-primary hover:text-white" },
-        { icon: MessageCircle, href: "https://wa.me/212641702524", label: 'WhatsApp', color: "bg-emerald-50 text-emerald-600 hover:bg-emerald-500 hover:text-white" },
-        { icon: MapPin, href: "https://www.google.com/maps/search/?api=1&query=Dr+Lamiae+Lachhab+Neurologue+Inezgane", label: isArabic ? 'موقعنا' : 'Itinéraire', color: "bg-secondary/5 text-secondary hover:bg-secondary hover:text-white" }
-    ]
+        {
+            icon: Phone,
+            href: "tel:0528832466",
+            label: isArabic ? 'اتصال' : 'Appeler',
+            color: "bg-primary text-white hover:bg-primary/90"
+        },
+        {
+            icon: MessageCircle,
+            href: "https://wa.me/212641702524",
+            label: 'WhatsApp',
+            color: "bg-emerald-500 text-white hover:bg-emerald-600"
+        },
+        {
+            icon: MapPin,
+            href: "https://www.google.com/maps/search/?api=1&query=Dr+Lamiae+Lachhab+Neurologue+Inezgane",
+            label: isArabic ? 'موقعنا' : 'Itinéraire',
+            color: "bg-secondary text-white hover:bg-secondary/90"
+        }]
 
     return (
         <>
@@ -78,6 +92,10 @@ const Navbar = () => {
                                     ))}
                                 </div>
 
+                                <div className={`flex items-center gap-4 border-l border-slate-200/60 pl-4 ${isArabic ? 'flex-row-reverse border-l-0 pr-4 border-r' : ''}`}>
+                                    <LanguageSwitcher />
+                                </div>
+
                                 {/* Desktop Quick Contact Icons */}
                                 <div className={`flex items-center gap-2 px-4 border-l border-r border-slate-200/60 ${isArabic ? 'flex-row-reverse' : ''}`}>
                                     {contactActions.map((action, idx) => (
@@ -113,14 +131,14 @@ const Navbar = () => {
                         </div>
 
                         {/* Mobile Contact Quick Bar (Visible only on mobile inside the navbar) */}
-                        <div className={`flex lg:hidden items-center justify-between gap-1.5 transition-all duration-500 ${scrolled ? 'px-2' : ''}`}>
+                        <div className={`flex lg:hidden items-center justify-between gap-1.5 transition-all duration-500 pt-1 ${scrolled ? 'px-2' : ''}`}>
                             {contactActions.map((action, idx) => (
                                 <a
                                     key={idx}
                                     href={action.href}
                                     target={action.icon !== Phone ? "_blank" : undefined}
                                     rel="noopener noreferrer"
-                                    className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-full border border-white/40 shadow-sm backdrop-blur-md transition-all active:scale-95 ${action.color.split(' ')[0]} ${action.color.split(' ')[1]} ${scrolled ? 'bg-white/80' : 'bg-white/40'}`}
+                                    className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-full border border-white/40 shadow-sm transition-all active:scale-95 ${action.color}`}
                                 >
                                     <action.icon size={14} />
                                     <span className={`text-[9px] font-black uppercase tracking-widest ${isArabic ? 'font-arabic' : ''}`}>
