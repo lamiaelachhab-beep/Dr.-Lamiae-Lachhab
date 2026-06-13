@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Tajawal:wght@300;400;500;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-sans antialiased;
+    background-color: #f7fcfe; /* Very light primary/5 approach */
+    color: #13658b;
+  }
+
+  /* Support for RTL */
+  [dir="rtl"] {
+    @apply font-arabic;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
+
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes float-delayed {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+.animate-float-slow {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float-delayed 8s ease-in-out infinite;
+  animation-delay: 2s;
+}
+
+.gradient-bg {
+  background: linear-gradient(135deg, rgba(131, 207, 210, 0.1) 0%, rgba(19, 101, 139, 0.05) 100%);
+}
+
+.eeg-bg-pattern {
+  background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' viewBox='0 0 100 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 L10 10 L12 5 L14 15 L16 10 L50 10 L52 0 L54 20 L56 10 L100 10' fill='none' stroke='%2383cfd2' stroke-width='0.5' opacity='0.1'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+}
+
+.neural-glow {
+  box-shadow: 0 0 30px 10px rgba(131, 207, 210, 0.2);
+}
+
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-light to-secondary;
+}
+
+.nav-link {
+  @apply text-secondary/60 hover:text-primary transition-all duration-300 font-bold uppercase tracking-widest text-[10px];
+}
+
+.btn-primary {
+  @apply bg-primary hover:bg-primary-dark text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 shadow-md hover:shadow-lg disabled:opacity-50;
+}
+
+.btn-secondary {
+  @apply border-2 border-primary text-primary hover:bg-primary/10 px-6 py-3 rounded-full font-semibold transition-all duration-300;
+}

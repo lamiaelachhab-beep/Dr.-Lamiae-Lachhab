@@ -1,0 +1,455 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos",
+        "specialties": "Spécialités",
+        "appointment": "Prendre RDV",
+        "contact": "Contact",
+        "blog": "Blog"
+    },
+    "hero": {
+        "title": "Dr. Lamiae Lachhab",
+        "subtitle": "Neurologue",
+        "badge": "Expertise en Neurologie \u2013 Agadir / Inezgane",
+        "description": "Cabinet médical de neurologie et explorations neurophysiologiques EEG EMG à Inezgane.",
+        "cta_appointment": "Prendre RDV",
+        "cta_whatsapp": "WhatsApp"
+    },
+    "footer": {
+        "description": "Cabinet de Neurologie & Explorations Fonctionnelles (EEG & ENMG).",
+        "copyright": "Excellence Neurologique."
+    },
+    "services": {
+        "title": "Nos Services",
+        "eeg": {
+            "name": "EEG (Électroencéphalographie)",
+            "desc": "Analyse de l'activité électrique du cerveau pour diagnostiquer l'épilepsie et d'autres troubles."
+        },
+        "enmg": {
+            "name": "ENMG (Électronuromyographie)",
+            "desc": "Étude des nerfs et des muscles pour identifier sciatique, tunnel carpien et neuropathies."
+        },
+        "neurology": {
+            "name": "Neurologie Générale",
+            "desc": "Consultations pour maux de tête, migraines, AVC, Parkinson et autres troubles neurologiques."
+        }
+    },
+    "services_section": {
+        "badge": "Plateau technique d'excellence",
+        "title_line1": "Explorations Diagnostiques de",
+        "title_line2": "Dernière Génération",
+        "subtitle": "Des technologies de pointe au service d'un diagnostic rigoureux pour une prise en charge neurologique optimale.",
+        "cta_discover": "Découvrir l'expertise",
+        "cta_title": "Votre santé mérite l'",
+        "cta_title_highlight": "Excellence",
+        "cta_desc": "Engagement, rigueur et empathie pour chacun de nos patients.",
+        "cta_button": "Réserver une Consultation",
+        "quality_label": "Qualité de Diagnostic",
+        "quality_sub": "Standard Européen",
+        "followup_label": "Suivi Personnalisé",
+        "followup_sub": "Accompagnement continu",
+        "expertise_label": "Expertise de Pointe",
+        "expertise_sub": "EEG & ENMG Spécialisé",
+                "pathologies": {
+            "title": "CONSULTATION SPÉCIALISÉE DES PATHOLOGIES NEUROLOGIQUES",
+            "desc": "Prise en charge experte des troubles du système nerveux central et périphérique.",
+            "b1": "Migraine",
+            "b2": "Épilepsie",
+            "b3": "Sclérose en plaques",
+            "b4": "Parkinson",
+            "b5": "Alzheimer"
+        },
+        "expertise": {
+            "title": "EXPERTISE SPÉCIALISÉE",
+            "desc": "Un parcours académique d'excellence dédié à la neurologie de pointe.",
+            "b1": "Diplômée en neurologie de la faculté de médecine de Rabat",
+            "b2": "d’Electroneuromyographie de la faculté de médecine de Rabat",
+            "b3": "EEG certificate of VIREPA (adult and Pediatric)"
+        },
+        "eeg": {
+            "title": "Électroencéphalogramme",
+            "desc": "Diagnostic de l'épilepsie pour adulte, enfant et nourrisson et des encéphalopathies métaboliques et maladies dégénératives.",
+            "b1": "Épilepsies",
+            "b2": "Troubles de conscience",
+            "b3": "Encéphalopathies"
+        },
+        "enmg": {
+            "title": "Électroneuromyogramme",
+            "desc": "Étude des conductions nerveuses et atteintes musculaires.",
+            "b1": "Canal carpien",
+            "b2": "Neuropathies périphériques",
+            "b3": "Myopathies",
+            "b4": "Atteintes du motoneurone"
+        }
+
+    },
+    "map_section": {
+        "hours_title": "Horaires",
+        "hours_days": "Lundi - Vendredi",
+        "hours_service": "Horaires Continu",
+        "hours_note": "Sauf mercredi jusqu’à 13 h",
+        "accessibility": "Entrée accessible en fauteuil roulant",
+        "social_title": "Suivez-nous",
+        "cabinet_title": "Notre Cabinet",
+        "cabinet_open": "Cabinet ouvert",
+        "call_title": "Appeler maintenant",
+        "call_desc": "Prise de rendez-vous directe",
+        "whatsapp_title": "WhatsApp / SMS",
+        "whatsapp_desc": "Contact rapide 24h/24"
+    },
+    "why_choose": {
+        "badge": "Engagement & Excellence",
+        "title": "Pourquoi choisir le cabinet du",
+        "title_highlight": "Dr. Lachhab ?",
+        "desc": "Un espace de neurologie moderne combinant technologie de pointe et accompagnement humain au c\u0153ur d'Inezgane.",
+        "stat1_label": "Pr\u00e9cision EEG",
+        "stat2_label": "Excellence",
+        "r1_title": "Expertise Sp\u00e9cialis\u00e9e",
+        "r1_desc": "Diplôm\u00e9e de la Facult\u00e9 de M\u00e9decine de Rabat, avec une sp\u00e9cialisation pouss\u00e9e en EEG et ENMG.",
+        "r2_title": "Approche Humaine",
+        "r2_desc": "Une \u00e9coute attentive et un accompagnement personnalis\u00e9 pour chaque patient.",
+        "r3_title": "Plateau Technique",
+        "r3_desc": "\u00c9quipements de derni\u00e8re g\u00e9n\u00e9ration pour des diagnostics pr\u00e9cis."
+    },
+    "about": {
+        "title": "\u00c0 Propos du Dr. Lachhab",
+        "subtitle": "Expertise & Parcours Acad\u00e9mique",
+        "bio": "Sp\u00e9cialiste en neurologie, diplôm\u00e9e de la Facult\u00e9 de M\u00e9decine de Rabat. Passionn\u00e9e par l'\u00e9lectrophysiologie clinique (EEG/ENMG), elle met son expertise au service des patients pour un diagnostic pr\u00e9cis et humain.",
+        "hero": {
+            "badge": "Expertise Neurologique",
+            "title": "Une expertise \u00e0 la hauteur de votre",
+            "title_highlight": "Sant\u00e9.",
+            "badge_aggre": "Agr\u00e9\u00e9e Rabat",
+            "badge_spec": "Sp\u00e9cialiste EEG/ENMG"
+        },
+        "diplomas": {
+            "section_badge": "Excellence & Formation",
+            "section_title": "Un Parcours de",
+            "section_title_highlight": "Haute Qualification",
+            "validation": "Validation Acad\u00e9mique",
+            "medecine": "Diplôme de m\u00e9decine de la facult\u00e9 de m\u00e9decine et de pharmacie de Rabat",
+            "speciality": "Diplôme de sp\u00e9cialit\u00e9 en Neurologie de la facult\u00e9 de m\u00e9decine et de pharmacie de Rabat",
+            "enmg": "Diplôme inter-universitaire en \u00e9lectroneuromyographie de la facult\u00e9 de m\u00e9decine et de pharmacie de Rabat",
+            "eeg_adult": "Formation VIREPA en \u00e9lectroenc\u00e9phalographie de l'adulte",
+            "eeg_pediatric": "Formation VIREPA en \u00e9lectroenc\u00e9phalographie p\u00e9diatrique"
+        },
+        "values": {
+            "section_title": "Nos",
+            "section_title_highlight": "Valeurs",
+            "subtitle": "Philosophie de soin centr\u00e9e sur le patient",
+            "v1_title": "Approche Humaine",
+            "v1_desc": "Une \u00e9coute attentive pour comprendre chaque patient au-del\u00e0 des sympt\u00f4mes.",
+            "v2_title": "Pr\u00e9cision M\u00e9dicale",
+            "v2_desc": "Rigueur absolue dans les diagnostics EEG et ENMG pour un suivi fiable.",
+            "v3_title": "Innovation",
+            "v3_desc": "Utilisation des derni\u00e8res technologies en neuro-imagerie fonctionnelle."
+        },
+        "cta": {
+            "title": "Besoin d'un avis neurologique ?",
+            "desc": "Prenez rendez-vous d\u00e8s maintenant pour une consultation d\u00e9taill\u00e9e.",
+            "button": "R\u00e9server maintenant"
+        }
+    },
+    "specialties_page": {
+        "hero": {
+            "badge": "Neurologie \u00b7 Explorations",
+            "available": "Disponible",
+            "title_p1": "Pr\u00e9cision.",
+            "title_p2": "Expertise.",
+            "title_p3": "Soin.",
+            "desc": "Explorations neurologiques de pointe \u2014 EEG & ENMG \u2014 d\u00e9di\u00e9es \u00e0 la pr\u00e9cision diagnostique.",
+            "cta": "Prendre RDV"
+        },
+        "exams": {
+            "labels": {
+                "fields": "Champs d'intervention",
+                "duration": "Dur\u00e9e",
+                "prep": "Pr\u00e9paration"
+            },
+            "eeg": {
+                "name": "\u00c9lectroenc\u00e9phalogramme",
+                "desc": "Cartographie haute-r\u00e9solution de l'activit\u00e9 \u00e9lectrique c\u00e9r\u00e9brale \u2014 le standard d'or du diagnostic neurologique.",
+                "prep": "Cheveux propres, sans produits coiffants.",
+                "duration": "45\u201360 min",
+                "ind": ["\u00c9pilepsies", "Troubles de conscience", "Enc\u00e9phalopathies", "Bilans de malaise"]
+            },
+            "enmg": {
+                "name": "\u00c9lectroneuromyogramme",
+                "desc": "Conduction nerveuse et r\u00e9ponse musculaire analys\u00e9es avec pr\u00e9cision pour localiser toute atteinte p\u00e9riph\u00e9rique.",
+                "prep": "Peau propre, sans cr\u00e8me ni huile.",
+                "duration": "30\u201390 min",
+                "ind": ["Canal Carpien", "Sciatalgies", "Neuropathies", "Myopathies", "Atteintes nerveuses"]
+            }
+        },
+        "domains": {
+            "title": "Domaines",
+            "title_highlight": "de soins.",
+            "desc": "Accompagnement expert sur l'ensemble du spectre.",
+            "items": [
+                { "title": "C\u00e9phal\u00e9es & Migraines", "desc": "Traitement de fond, protocoles personnalis\u00e9s." },
+                { "title": "Post-AVC", "desc": "Suivi rigoureux et r\u00e9adaptation coordonn\u00e9e." },
+                { "title": "Parkinson", "desc": "Gestion des troubles moteurs et cognitifs." },
+                { "title": "M\u00e9moire", "desc": "Diagnostic pr\u00e9coce, soutien neuro-cognitif." }
+            ]
+        },
+        "cta": {
+            "badge": "Consultations",
+            "title": "Votre sant\u00e9,",
+            "title_highlight": "notre priorit\u00e9.",
+            "desc": "Prenez rendez-vous pour un bilan complet. R\u00e9ponse sous 24h.",
+            "button": "Planifier un Bilan"
+        }
+    },
+    "contact": {
+        "title": "Nous Contacter",
+        "phone": "Téléphone",
+        "address": "Adresse",
+        "email": "Email",
+        "address_value": "Immeuble Amanar, 17 Ave Mohammed V, Inezgane 80000"
+    },
+    "common": {
+        "learn_more": "En savoir plus",
+        "read_more": "Lire la suite",
+        "book_now": "Réserver maintenant",
+        "contact_us": "Contactez-nous",
+        "whatsapp_message": "Bonjour Dr Lamiae Lachhab, je souhaite prendre un rendez-vous."
+    },
+    "cabinet": {
+        "title": "Notre Environnement",
+        "subtitle": "Explorez votre Espace de Bien-être",
+        "description": "Notre cabinet allie modernité technologique et approche humaine pour vous offrir les meilleurs soins dans un cadre serein et rassurant.",
+        "highlights": {
+            "h1_title": "Haute Technologie",
+            "h1_desc": "Équipements EEG et ENMG de dernière génération pour une précision diagnostique absolue.",
+            "h2_title": "Environnement Serein",
+            "h2_desc": "Espace conçu pour le confort et la confidentialité des patients à chaque étape.",
+            "h3_title": "Approche Humaine",
+            "h3_desc": "Une écoute attentive et un accompagnement sur-mesure pour chaque patient.",
+            "h4_title": "Standards de Qualité",
+            "h4_desc": "Respect rigoureux des normes d'hygiène et de sécurité sanitaire."
+        },
+        "gallery": {
+            "img1": {
+                "title": "Accueil",
+                "desc": "Une écoute attentive et un examen neurologique rigoureux pour un diagnostic précis."
+            },
+            "img2": {
+                "title": "EEG",
+                "desc": "Exploration fonctionnelle du cerveau pour le diagnostic de l’épilepsie et autres troubles."
+            },
+            "img3": {
+                "title": "EMG",
+                "desc": "Étude des nerfs et des muscles pour identifier les neuropathies et atteintes motrices."
+            },
+            "img4": {
+                "title": "Espace d'Attente",
+                "desc": "Profitez d'un moment de calme dans notre zone d'attente moderne."
+            },
+            "img5": {
+                "title": "Expertise Neurologique",
+                "desc": "Le Dr Lamiae Lachhab, neurologue, assure une analyse rigoureuse et un accompagnement personnalisé pour chaque patient."
+            }
+        }
+    },
+    "testimonials": {
+        "title": "Avis de nos Patients",
+        "subtitle": "Votre Santé, Notre Priorité",
+        "description": "Découvrez les retours d'expérience de nos patients sur la qualité de nos soins et notre approche humaine.",
+        "link_google": "Voir tous les avis sur Google",
+        "verified": "Avis vérifié",
+        "original": "Voir l'avis original",
+        "items": {
+            "rev1": {
+                "author": "Khalid Baaza",
+                "text": "المعروف لا يعرف ماشاء الله تبارك الله، جازاك الله عنا كل خير",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/108673247291724330887/place/ChIJFwsuTf3Hsw0RhxF3izLNb_E/@25.9374225,14.8637022,4z/data=!4m6!1m5!8m4!1e1!2s108673247291724330887!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev2": {
+                "author": "EL HAIDI YOUSSEF",
+                "text": "Au delà de son professionnalisme véritable. Docteur LACHHAB est une médecin  d'une empathie généreuse. Merci Docteur et au plaisir de vous revoir une autre fois.",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/117463576070445448323/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@39.6309586,0.0429704,5z/data=!4m6!1m5!8m4!1e1!2s117463576070445448323!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev3": {
+                "author": "Khadija Bouderbala",
+                "text": "Ghzala ghzala ghzaaala. Had tbiba Katssme3 lik mzn w kat9elbak mzn , je recommande vivement",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/107211500207114050356/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3809108,-9.559695,14z/data=!4m6!1m5!8m4!1e1!2s107211500207114050356!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev4": {
+                "author": "Youssef Ouaboun",
+                "text": "دكتورة متميزة إنصات للمرضى وتعامل راقي.  وحتى من حيث بنات الاستقبال تعاملهن جميل",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/100456479162792204680/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3597048,-9.5337908,17z/data=!4m6!1m5!8m4!1e1!2s100456479162792204680!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev5": {
+                "author": "Radia Tangi",
+                "text": "Dr Lachhab a énormément de qualités humaines et professionnelles, très attentionnée et à l'écoute. بالتوفيق ان شاء الله",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/100159072828208157610/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@31.8273152,-8.8778163,8z/data=!4m4!1m3!8m2!1e1!2s100159072828208157610?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            },
+            "rev6": {
+                "author": "Ahlam Chekri",
+                "text": "دكتورة واعرة وفنة كتفليك وكتعطيك الخاطر  .صراحة طوب فطوب",
+                "rating": 5,
+                "link": "https://www.google.com/maps/contrib/115726043030514907266/place/ChIJZ0VO5YvHsw0Ri3-OSz17HBM/@30.3597048,-9.5337908,17z/data=!4m6!1m5!8m4!1e1!2s115726043030514907266!3m1!1e1?hl=fr&entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+            }
+        }
+    },
+    "contact_page": {
+        "hero": {
+            "badge": "Ligne Directe",
+            "title": "Prenons",
+            "title_highlight": "Contact",
+            "desc": "Notre secr\u00e9tariat vous accueille du lundi au vendredi pour r\u00e9pondre \u00e0 toutes vos questions."
+        },
+        "details": {
+            "title": "Coordonn\u00e9es",
+            "phone": "T\u00e9l\u00e9phone",
+            "whatsapp": "WhatsApp",
+            "address": "Adresse",
+            "sec": "Secr\u00e9tariat",
+            "urgency": "Urgence EEG",
+            "building": "Immeuble Amanar"
+        },
+        "form": {
+            "title": "Laissez un Message",
+            "labels": {
+                "name": "Nom Complet",
+                "contact": "Email / Mobile",
+                "subject": "Sujet",
+                "message": "Message"
+            },
+            "placeholders": {
+                "name": "Ex: Ahmed Alami",
+                "contact": "Ex: 06...",
+                "subject": "Ex: Prise de RDV, EEG...",
+                "message": "D\u00e9crivez votre besoin..."
+            },
+            "button": "Envoyer le Message",
+            "alert_success": "Message envoy\u00e9 ! (Simulation)"
+        }
+    },
+    "appointment_page": {
+        "hero": {
+            "badge": "R\u00e9server maintenant",
+            "title": "Prise de",
+            "title_highlight": "Rendez-vous",
+            "desc": "Expertise neurologique de pointe au service de votre sant\u00e9 \u00e0 Inezgane."
+        },
+        "channels": {
+            "call": "Appel",
+            "whatsapp": "WhatsApp"
+        },
+        "location": {
+            "title": "Localisation",
+            "address": "Immeuble Amanar, 17 Ave Mohammed V, Inezgane 80000"
+        },
+        "schedule": {
+            "title": "Horaires d'Ouverture",
+            "days": {
+                "mon": "Lundi",
+                "tue": "Mardi",
+                "wed": "Mercredi",
+                "thu": "Jeudi",
+                "fri": "Vendredi",
+                "sat_sun": "Sam/Dim"
+            },
+            "closed": "Ferm\u00e9"
+        },
+        "instruction": "Apporter vos ordonnances et anciens examens.",
+        "urgent": {
+            "title": "Besoin d'un rendez-vous urgent ?",
+            "desc": "R\u00e9ponse garantie sous 24h/48h.",
+            "button": "Appeler Maintenant"
+        }
+    },
+    "blog_page": {
+        "hero": {
+            "badge": "Medical Insights",
+            "title": "Magazine de",
+            "title_highlight": "Neurologie",
+            "desc": "Explorez les derni\u00e8res avanc\u00e9es m\u00e9dicales et nos conseils pour pr\u00e9server votre sant\u00e9 neurologique."
+        },
+        "ui": {
+            "read_more": "Lire la suite",
+            "close": "Fermer l'article",
+            "expert_note": "Note de l'Expert",
+            "expert_note_desc": "\"Un diagnostic pr\u00e9coce \u00e0 l'aide d'examens sp\u00e9cialis\u00e9s comme l'EEG ou l'ENMG est souvent la cl\u00e9 pour une prise en charge r\u00e9ussie.\"",
+            "tags_label": "Neurologie, Sant\u00e9, Bien-\u00eatre",
+            "newsletter_badge": "Restez Inform\u00e9",
+            "newsletter_title": "Votre sant\u00e9 neurologique",
+            "newsletter_title_highlight": "est notre priorit\u00e9."
+        },
+        "categories": {
+            "neurology": "Neurologie",
+            "diagnostic": "Diagnostic",
+            "prevention": "Pr\u00e9vention",
+            "urgency": "Urgence",
+            "neurodegenerative": "Neurod\u00e9g\u00e9n\u00e9ratif",
+            "consultation": "Consultation",
+            "pediatrics": "P\u00e9diatrie"
+        },
+        "posts": {
+            "p1": {
+                "title": "Les migraines : causes et solutions modernes",
+                "excerpt": "D\u00e9couvrez comment identifier les types de migraines et les traitements actuels pour soulager durablement vos douleurs.",
+                "content": "La migraine n'est pas un simple mal de t\u00eate. C'est une pathologie neurologique complexe qui peut \u00eatre invalidante au quotidien. Elle se caract\u00e9rise souvent par une douleur pulsatile, g\u00e9n\u00e9ralement d'un seul c\u00f4t\u00e9, accompagn\u00e9e de naus\u00e9es et d'une hypersensibilit\u00e9 \u00e0 la lumi\u00e8re. Les causes peuvent varier : stress, changements hormonaux, ou facteurs environnementaux. Aujourd'hui, des traitements de fond et des r\u00e8gles d'hygi\u00e8ne de vie permettent de r\u00e9duire significativement la fr\u00e9quence des crises."
+            },
+            "p2": {
+                "title": "Comprendre l'EEG : l'examen cl\u00e9 du cerveau",
+                "excerpt": "Pourquoi votre m\u00e9decin demande un EEG ? Comment se d\u00e9roule cet examen indolore et essentiel ?",
+                "content": "L'\u00e9lectroenc\u00e9phalographie (EEG) est un examen fondamental en neurologie. Il permet d'enregistrer l'activit\u00e9 \u00e9lectrique des neurones \u00e0 l'aide d'electrodes plac\u00e9es sur le cuir chevelu. Cet examen est crucial pour le diagnostic des \u00e9pilepsies, mais aussi pour explorer les troubles du sommeil, les enc\u00e9phalopathies ou les pertes de connaissance. Totalement indolore et non invasif, il apporte des informations pr\u00e9cieuses sur le fonctionnement c\u00e9r\u00e9bral en temps r\u00e9el."
+            },
+            "p3": {
+                "title": "Sommeil et sant\u00e9 neurologique",
+                "excerpt": "Le lien entre la qualit\u00e9 de votre sommeil et le bon fonctionnement de votre cerveau est plus \u00e9troit qu'on ne le pense.",
+                "content": "Un bon sommeil est le garant d'un cerveau en bonne sant\u00e9. Pendant que nous dormons, notre cerveau effectue un v\u00e9ritable \"nettoyage\" biologique, consolidant la m\u00e9moire et \u00e9liminant les toxines. Les troubles du sommeil (insomnie, apn\u00e9es, syndrome des jambes sans repos) peuvent avoir des r\u00e9percussions sur l'humeur, la concentration et augmenter le risque de pathologies neurologiques \u00e0 long terme."
+            },
+            "p4": {
+                "title": "L'\u00e9pilepsie : Comprendre les crises",
+                "excerpt": "Vivre avec l'\u00e9pilepsie demande une prise en charge adapt\u00e9e et une compr\u00e9hension approfondie de la maladie.",
+                "content": "L'\u00e9pilepsie est l'une des affections neurologiques les plus fr\u00e9quentes. Elle se d\u00e9finit par une pr\u00e9disposition durable \u00e0 g\u00e9n\u00e9rer des crises \u00e9pileptiques, r\u00e9sultat d'une d\u00e9charge \u00e9lectrique soudaine et excessive dans le cerveau. Contrairement aux id\u00e9es re\u00e7ues, il existe de nombreuses formes d'\u00e9pilepsie, et la majorit\u00e9 des patients peuvent mener une vie normale gr\u00e2ce \u00e0 un traitement m\u00e9dicamenteux bien dos\u00e9."
+            },
+            "p5": {
+                "title": "AVC : Les signes d'alerte",
+                "excerpt": "Chaque minute compte. Apprenez \u00e0 reconna\u00eetre les sympt\u00f4mes pour r\u00e9agir d\u00e8s les premiers signes.",
+                "content": "L'AVC (Accident Vasculaire C\u00e9r\u00e9bral) est une urgence absolue. Une d\u00e9formation du visage, une faiblesse d'un bras ou d'une jambe, ou des difficult\u00e9s \u00e0 parler doivent alerter imm\u00e9diatement. Une prise en charge rapide en unit\u00e9 neuro-vasculaire permet de limiter les s\u00e9quelles et d'am\u00e9liorer le pronostic. La pr\u00e9vention passe par le contr\u00f4le de l'hypertension, du diab\u00e8te et du cholest\u00e9rol."
+            },
+            "p6": {
+                "title": "La maladie de Parkinson",
+                "excerpt": "Un guide pratique sur les sympt\u00f4mes, la prise en charge et les innovations th\u00e9rapeutiques.",
+                "content": "La maladie de Parkinson touche la motricit\u00e9 mais aussi l'humeur et le sommeil. Elle est li\u00e9e \u00e0 la d\u00e9g\u00e9n\u00e9rescence de neurones produisant la dopamine. Si le tremblement est le signe le plus connu, la lenteur des mouvements et la raideur sont \u00e9galement caract\u00e9ristiques. Aujourd'hui, bien qu'on ne sache pas encore la gu\u00e9rir, de nombreux traitements permettent de contr\u00f4ler efficacement les sympt\u00f4mes sur de longues ann\u00e9es."
+            },
+            "p7": {
+                "title": "Tout savoir sur l'ENMG",
+                "excerpt": "Comment se d\u00e9roule un ENMG ? Cet examen est essentiel pour le diagnostic des pathologies des nerfs et des muscles.",
+                "content": "L'ENMG (\u00c9lectronuromyogramme) permet d'\u00e9tudier le fonctionnement des nerfs et des muscles. Il aide au diagnostic de pathologies fr\u00e9quentes comme le syndrome du canal carpien, les sciatiques par hernie discale, ou les neuropathies diab\u00e9tiques. L'examen se d\u00e9roule en deux temps : l'analyse de la conduction nerveuse et l'examen des muscles \u00e0 l'aide d'une fine aiguille \u00e9lectrode."
+            },
+            "p8": {
+                "title": "C\u00e9phal\u00e9es de tension",
+                "excerpt": "Le stress est souvent en cause. D\u00e9couvrez des exercices et conseils pour soulager ces maux de t\u00eate fr\u00e9quents.",
+                "content": "Contrairement \u00e0 la migraine, la c\u00e9phal\u00e9e de tension est souvent li\u00e9e au stress ou \u00e0 des tensions musculaires du cou. La douleur est g\u00e9n\u00e9ralement diffuse, comme un serre-t\u00eate autour du cr\u00e2ne. Une meilleure gestion du stress, une am\u00e9lioration de la posture au travail et des exercices de relaxation sont souvent plus efficaces que les simples antalgiques sur le long terme."
+            },
+            "p9": {
+                "title": "Neurologie p\u00e9diatrique",
+                "excerpt": "D\u00e9veloppement neuro-moteur et signes cliniques \u00e0 surveiller chez l'enfant et le nourrisson.",
+                "content": "Le cerveau de l'enfant est en pleine croissance et pr\u00e9sente ses propres sp\u00e9cificit\u00e9s neurologiques. Du d\u00e9pistage pr\u00e9coce des troubles du d\u00e9veloppement \u00e0 la prise en charge des \u00e9pilepsies de l'enfant, la neurologie p\u00e9diatrique requiert une approche douce et adapt\u00e9e. Surveiller les \u00e9tapes du d\u00e9veloppement moteur et du langage est essentiel pour agir t\u00f4t si n\u00e9cessaire."
+            }
+        }
+    },
+    "appointment_modal": {
+        "welcome": "BIENVENUE AU CABINET",
+        "doctor": "DR LAMIAE LACHHAB",
+        "city": "INEZGANE",
+        "service": "SERVICE DE PRISE DE RDV EXPRESS",
+        "info_text": "Veuillez renseigner vos informations pour une prise en charge rapide par notre secrétariat.",
+        "name_label": "Votre nom complet",
+        "date_label": "jj/mm/aaaa",
+        "slot_morning": "MATIN",
+        "slot_afternoon": "APRÈS-MIDI",
+        "send": "ENVOYER",
+        "invalid_date": "Veuillez choisir un jour ouvré (Lundi - Vendredi)"
+    }
+}
