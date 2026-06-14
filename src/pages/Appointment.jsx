@@ -10,11 +10,11 @@ const Appointment = () => {
     const isArabic = i18n.language === 'ar'
 
     const schedule = [
-        { day: t('appointment_page.schedule.days.mon'), hours: "09:00 - 18:00" },
-        { day: t('appointment_page.schedule.days.tue'), hours: "09:00 - 18:00" },
-        { day: t('appointment_page.schedule.days.wed'), hours: "09:00 - 13:00" },
-        { day: t('appointment_page.schedule.days.thu'), hours: "09:00 - 18:00" },
-        { day: t('appointment_page.schedule.days.fri'), hours: "09:00 - 17:00" },
+        { day: t('appointment_page.schedule.days.mon'), hours: "08:30 - 16:30" },
+        { day: t('appointment_page.schedule.days.tue'), hours: "08:30 - 16:30" },
+        { day: t('appointment_page.schedule.days.wed'), hours: "08:30 - 13:00" },
+        { day: t('appointment_page.schedule.days.thu'), hours: "08:30 - 16:30" },
+        { day: t('appointment_page.schedule.days.fri'), hours: "08:30 - 16:30" },
         { day: t('appointment_page.schedule.days.sat_sun'), hours: t('appointment_page.schedule.closed') }
     ]
 

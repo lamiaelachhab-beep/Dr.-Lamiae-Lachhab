@@ -10,7 +10,7 @@ const faqData = {
     {
       icon: Clock,
       question: "Horaires d'ouverture",
-      answer: "Le cabinet est ouvert :\n- Lun, Mar, Jeu : 09h00 - 18h00\n- Mer : 09h00 - 13h00\n- Ven : 09h00 - 17h00\nFermé le Samedi et Dimanche."
+      answer: "Le cabinet est ouvert :\n- Lun, Mar, Jeu,Ven : 08h30 - 16h30\n- Mer : 08h30  - 13h00\nFermé le Samedi et Dimanche."
     },
     {
       icon: Bot,
@@ -51,18 +51,18 @@ const faqData = {
       question: "Maux de tête & Migraines",
       answer: "Nous assurons une prise en charge complète des céphalées et migraines, avec des protocoles personnalisés pour réduire la fréquence et l'intensité des crises."
     },
-    {
-      icon: CreditCard,
-      question: "Tarifs & Paiement",
-      answer: "Pour toute information sur les tarifs, veuillez contacter le cabinet au 0528832466. Paiement accepté en espèces ainsi que par TPE (carte bancaire, téléphone mobile et moyens de paiement électroniques)."
-    },
+ {
+  icon: CreditCard,
+  question: "Tarifs & Paiement",
+  answer: "Pour toute information sur les tarifs, veuillez contacter le cabinet au 0528832466. Le règlement des consultations s'effectue en espèces."
+},
   ],
   ar: [
-    {
-      icon: Clock,
-      question: "أوقات العمل",
-      answer: "العيادة مفتوحة :\n- الإثنين، الثلاثاء، الخميس: 09:00 - 18:00\n- الأربعاء: 09:00 - 13:00\n- الجمعة: 09:00 - 17:00\nمغلقة السبت والأحد."
-    },
+  {
+  icon: Clock,
+  question: "أوقات العمل",
+  answer: "العيادة مفتوحة:\n- الإثنين، الثلاثاء، الخميس، الجمعة: 08:30 - 16:30\n- الأربعاء: 08:30 - 13:00\nمغلقة يومي السبت والأحد."
+},
     {
       icon: Bot,
       question: "حجز موعد",
@@ -102,11 +102,11 @@ const faqData = {
       question: "صداع وشقيقة",
       answer: "نقدم رعاية كاملة لآلام الرأس والشقيقة، مع بروتوكولات مخصصة لتقليل تكرار وحدة النوبات."
     },
-    {
-      icon: CreditCard,
-      question: "التعريفات والأداء",
-      answer: "لأي معلومات حول التعريفات، يرجى الاتصال بالعيادة على 0528832466. يتم قبول الدفع نقداً أو عبر جهاز الأداء الإلكتروني (TPE) باستعمال البطاقة البنكية أو الهاتف ووسائل الدفع الإلكترونية."
-    },
+ {
+  icon: CreditCard,
+  question: "التعريفات والأداء",
+  answer: "لأي معلومات حول التعريفات، يرجى الاتصال بالعيادة على 0528832466. يتم أداء رسوم الاستشارات نقداً فقط."
+},
   ]
 };
 
